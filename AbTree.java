@@ -1,4 +1,4 @@
-//Program by: Nadine Sarraj, Mazen Lawand, Jonathan-Fils Aime, and Maisam Arif
+//Program by: Mazen Lawand
 
 package BinarySearchTree;
 

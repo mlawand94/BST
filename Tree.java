@@ -1,4 +1,4 @@
-//Program by: Nadine Sarraj
+//Program by: Mazen Lawand
 //CS 2336.006 
 //Need to create a tree class for printing out the following:
 //preorder, inorder, and postorder traversals

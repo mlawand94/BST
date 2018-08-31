@@ -1,4 +1,4 @@
-//Program by: Nadine Sarraj, Mazen Lawand, Jonathan-Fils Aime, and Maisam Arif
+//Program by: Mazen Lawand
 //CS 2336.006
 //This reads in the string from the file, and creates a BST.
 
